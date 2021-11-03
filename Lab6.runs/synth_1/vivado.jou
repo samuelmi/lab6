@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Oct  1 18:00:12 2021
+# Process ID: 6344
+# Current directory: D:/Comp541/Lab6/Lab6.runs/synth_1
+# Command line: vivado.exe -log stopwatch.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source stopwatch.tcl
+# Log file: D:/Comp541/Lab6/Lab6.runs/synth_1/stopwatch.vds
+# Journal file: D:/Comp541/Lab6/Lab6.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source stopwatch.tcl -notrace
